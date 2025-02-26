@@ -1,0 +1,100 @@
+Toy Story, 1996, Mystery, 8.6, 1278
+Inception, 2007, Romance, 5.4, 1973
+Iron Man, 2001, Comedy, 8.2, 658
+Fantastic Beasts, 2020, Drama, 7.3, 284
+Us, 2021, Drama, 6.0, 910
+Harry Potter, 1988, Romance, 8.6, 492
+Rogue One, 1997, Horror, 9.2, 717
+La La Land, 1998, Adventure, 7.4, 865
+The Shawshank Redemption, 2002, Action, 8.1, 328
+A Quiet Place, 1980, Comedy, 7.7, 433
+Interstellar, 2012, Thriller, 8.2, 900
+The Batman, 2008, Fantasy, 5.5, 1660
+The Hobbit, 1987, Action, 5.1, 384
+Casino Royale, 1997, Thriller, 8.2, 1635
+Mad Max: Fury Road, 2015, Fantasy, 6.1, 1654
+Interstellar, 2021, Horror, 7.1, 439
+Parasite, 2001, Mystery, 7.1, 725
+Whiplash, 1981, Fantasy, 7.1, 1385
+Black Panther, 1988, Romance, 8.4, 1428
+The Conjuring, 2025, Adventure, 7.0, 1181
+The Matrix, 1986, Comedy, 8.7, 138
+Star Wars: A New Hope, 2020, Comedy, 6.3, 371
+No Country for Old Men, 1986, Adventure, 8.1, 1944
+Deadpool, 2002, Mystery, 6.7, 1319
+The Godfather, 2025, Sci-Fi, 6.7, 1756
+Toy Story, 1993, Action, 7.4, 1771
+Django Unchained, 1994, Thriller, 7.4, 803
+Se7en, 1997, Comedy, 5.6, 614
+Inception, 1989, Comedy, 5.4, 1203
+The Batman, 1993, Horror, 5.7, 1500
+Forrest Gump, 2014, Fantasy, 5.1, 139
+Harry Potter, 2025, Adventure, 8.1, 1920
+The Matrix, 1985, Action, 7.0, 424
+The Hobbit, 1990, Thriller, 7.3, 652
+Pulp Fiction, 2018, Fantasy, 7.8, 754
+The Avengers, 1999, Mystery, 5.6, 731
+Toy Story, 1998, Mystery, 5.8, 180
+Black Panther, 1988, Drama, 8.4, 817
+Whiplash, 2013, Action, 9.1, 1629
+Us, 2013, Thriller, 5.8, 1130
+Interstellar, 2004, Drama, 6.8, 819
+Iron Man, 2016, Horror, 7.7, 1417
+It, 2002, Thriller, 6.4, 1923
+Rogue One, 1981, Mystery, 8.4, 426
+Fantastic Beasts, 2007, Mystery, 8.2, 1495
+The Godfather, 1992, Comedy, 6.8, 1492
+Interstellar, 2017, Action, 8.6, 891
+The Shawshank Redemption, 2014, Sci-Fi, 6.0, 1332
+The Wolf of Wall Street, 1998, Thriller, 8.7, 1974
+Get Out, 2018, Comedy, 7.0, 820
+Logan, 1982, Mystery, 8.6, 1234
+The Departed, 1996, Sci-Fi, 8.5, 1209
+Inception, 2019, Comedy, 8.5, 1912
+Casino Royale, 1999, Romance, 8.9, 1185
+Casino Royale, 2017, Fantasy, 5.3, 1412
+Black Panther, 2021, Horror, 5.7, 307
+Fantastic Beasts, 1981, Horror, 5.3, 1333
+Mad Max: Fury Road, 1994, Romance, 5.0, 1392
+The Conjuring, 2019, Adventure, 7.0, 1061
+Gladiator, 2017, Fantasy, 8.6, 1719
+The Grand Budapest Hotel, 2002, Comedy, 8.3, 1546
+The Avengers, 2001, Adventure, 7.4, 1160
+Logan, 1989, Sci-Fi, 8.7, 1111
+The Departed, 2014, Fantasy, 7.4, 522
+Forrest Gump, 2010, Comedy, 5.6, 1963
+The Conjuring, 2016, Action, 6.1, 362
+The Prestige, 2013, Sci-Fi, 5.3, 1068
+Rogue One, 2015, Horror, 8.8, 458
+Rogue One, 2008, Mystery, 5.7, 1234
+Get Out, 2020, Romance, 5.5, 372
+Django Unchained, 1995, Romance, 5.2, 709
+The Lion King, 2018, Adventure, 6.8, 1534
+Forrest Gump, 1991, Thriller, 6.1, 638
+Django Unchained, 2022, Fantasy, 5.7, 935
+No Country for Old Men, 1992, Horror, 6.2, 658
+Shutter Island, 2016, Sci-Fi, 6.1, 271
+The Lord of the Rings, 1985, Sci-Fi, 6.3, 1178
+Mad Max: Fury Road, 2023, Drama, 5.5, 238
+Avatar, 2023, Comedy, 7.2, 1287
+The Dark Knight, 1999, Romance, 5.2, 1178
+Titanic, 1994, Drama, 5.9, 359
+Inception, 2017, Romance, 5.3, 1732
+Forrest Gump, 2005, Fantasy, 8.2, 1350
+No Country for Old Men, 1985, Romance, 6.5, 1897
+The Silence of the Lambs, 2002, Comedy, 5.0, 1434
+Mad Max: Fury Road, 1998, Romance, 7.4, 1317
+The Sixth Sense, 2004, Drama, 9.4, 1940
+The Wolf of Wall Street, 1987, Fantasy, 8.8, 781
+The Conjuring, 1998, Action, 6.9, 600
+The Godfather, 1999, Adventure, 7.0, 1447
+Se7en, 1987, Sci-Fi, 6.2, 301
+Jurassic Park, 2021, Sci-Fi, 8.4, 1818
+Gladiator, 2002, Action, 5.3, 1748
+The Matrix, 2021, Fantasy, 8.2, 613
+The Avengers, 1983, Mystery, 5.3, 257
+The Departed, 1985, Fantasy, 8.2, 1472
+Deadpool, 2010, Horror, 6.1, 1476
+Logan, 2013, Fantasy, 8.5, 1161
+The Silence of the Lambs, 1996, Adventure, 7.0, 52
+The Sixth Sense, 2016, Sci-Fi, 6.9, 936
