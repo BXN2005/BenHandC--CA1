@@ -69,12 +69,11 @@ void readMovies(const string &filename, vector<Movie> &movies) {
     fin.close();
 }
 
-int main() {
-    vector<Movie> movies;
-
-
-    readMovies("movies.txt", movies);
-
+void displayMovies(const vector<Movie> &movies) {
+    if (movies.empty()) {
+        cout << "No movies available to display." << endl;
+        return;
+    }
 
     cout << left << setw(25) << "Title"
          << setw(7) << "Year"
@@ -84,11 +83,15 @@ int main() {
          << endl;
     cout << string(61, '-') << endl;
 
-
-    for (const auto &movie : movies) {
+    for (auto &movie : movies) {
         display(movie);
     }
+}
 
+int main() {
+    vector<Movie> movies;
+    readMovies("movies.txt", movies);
+    displayMovies(movies);
 
     return 0;
 }
