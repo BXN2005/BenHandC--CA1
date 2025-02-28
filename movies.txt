@@ -1,100 +1,100 @@
-No Country for Old Men, 2002, Thriller, 6.0, 172
-The Wolf of Wall Street, 1995, Action, 6.0, 431
-Avatar, 2024, Mystery, 7.7, 656
-Fantastic Beasts, 2023, Romance, 7.0, 1893
-Get Out, 2025, Sci-Fi, 6.1, 1503
-Jurassic Park, 2017, Mystery, 5.5, 1248
-Forrest Gump, 2023, Comedy, 8.2, 1501
-The Matrix, 2016, Drama, 7.6, 1078
-The Hobbit, 1987, Adventure, 7.0, 513
-Get Out, 1996, Drama, 5.2, 1447
-The Silence of the Lambs, 2015, Sci-Fi, 8.9, 1824
-The Conjuring, 1992, Action, 7.3, 1705
-Us, 2000, Fantasy, 9.3, 1765
-Toy Story, 2015, Drama, 5.8, 280
-Django Unchained, 1992, Adventure, 6.7, 941
-Mad Max: Fury Road, 1988, Thriller, 8.1, 1549
-The Wolf of Wall Street, 1992, Thriller, 8.8, 224
-The Departed, 1982, Sci-Fi, 5.9, 555
-The Grand Budapest Hotel, 1984, Sci-Fi, 8.2, 204
-Fight Club, 1999, Horror, 5.3, 1013
-The Grand Budapest Hotel, 2002, Action, 8.6, 1506
-Star Wars: A New Hope, 1996, Comedy, 7.7, 910
-The Lord of the Rings, 2001, Thriller, 8.9, 1579
-The Dark Knight, 1982, Sci-Fi, 6.7, 1951
-The Batman, 2018, Adventure, 9.1, 1408
-Pulp Fiction, 2024, Drama, 9.3, 644
-The Lion King, 1996, Drama, 7.5, 970
-Logan, 1992, Sci-Fi, 5.6, 1827
-Titanic, 2000, Fantasy, 6.1, 1592
-Casino Royale, 2010, Horror, 8.3, 672
-Rogue One, 1992, Fantasy, 9.1, 1596
-Black Panther, 2007, Mystery, 5.6, 1173
-La La Land, 1995, Fantasy, 6.5, 462
-Casino Royale, 1990, Drama, 5.8, 1995
-The Shawshank Redemption, 2021, Drama, 5.5, 1919
-Fantastic Beasts, 1990, Sci-Fi, 9.4, 1340
-The Social Network, 2016, Action, 6.8, 1214
-Finding Nemo, 1998, Sci-Fi, 5.2, 1691
-The Sixth Sense, 1999, Thriller, 7.7, 1241
-Jurassic Park, 2024, Action, 7.5, 1288
-The Hobbit, 2014, Romance, 7.0, 1371
-It, 2014, Sci-Fi, 7.9, 214
-Whiplash, 2001, Romance, 8.8, 438
-La La Land, 2023, Mystery, 8.8, 1659
-The Departed, 2012, Adventure, 9.4, 1544
-The Lord of the Rings 2, 2009, Comedy, 7.8, 1274
-Parasite, 2006, Romance, 8.6, 221
-The Avengers, 2023, Drama, 8.9, 1845
-The Godfather, 2002, Sci-Fi, 6.4, 825
-Star Wars: A New Hope, 2000, Mystery, 8.0, 593
-The Conjuring, 2010, Horror, 6.1, 328
-Inception, 2008, Horror, 8.7, 1156
-A Quiet Place, 2021, Mystery, 8.3, 1318
-The Silence of the Lambs, 1983, Adventure, 9.4, 1029
-The Matrix, 2014, Action, 8.5, 535
-The Batman, 1991, Thriller, 5.6, 633
-The Prestige, 2008, Romance, 6.7, 1210
-The Lion King, 2000, Mystery, 5.6, 1270
-Interstellar, 2015, Fantasy, 5.4, 1054
-Skyfall, 2007, Action, 5.5, 1771
-Forrest Gump, 2000, Drama, 8.2, 1445
-Logan, 2006, Thriller, 7.8, 1536
-Gladiator, 2000, Horror, 6.3, 1027
-Avatar, 1986, Adventure, 9.5, 639
-Harry Potter, 2012, Thriller, 5.6, 1319
-Se7en, 1982, Fantasy, 7.7, 1708
-Rogue One, 1989, Sci-Fi, 5.3, 1728
-Black Panther, 2022, Thriller, 6.2, 1537
-Gladiator, 2023, Horror, 8.4, 1972
-Parasite, 2024, Thriller, 8.3, 188
-A Quiet Place, 1982, Fantasy, 5.5, 1232
-The Godfather, 1988, Horror, 5.1, 1272
-Deadpool, 1999, Comedy, 8.3, 1322
-No Country for Old Men, 2001, Mystery, 9.3, 390
-The Prestige, 1992, Thriller, 8.5, 1041
-Iron Man, 1983, Comedy, 7.0, 1902
-Django Unchained, 1981, Comedy, 7.3, 860
-The Shawshank Redemption, 2009, Sci-Fi, 5.5, 586
-It, 2002, Comedy, 5.1, 444
-Inception, 2005, Comedy, 9.0, 1296
-Fight Club, 1986, Mystery, 8.6, 920
-The Avengers, 1994, Sci-Fi, 8.5, 1168
-Whiplash, 2019, Drama, 6.5, 1556
-Shutter Island, 2023, Romance, 8.6, 548
-Skyfall, 2003, Horror, 7.5, 1872
-Interstellar, 1981, Action, 8.6, 1236
-Iron Man, 2023, Romance, 9.1, 1940
-Toy Story, 2002, Thriller, 5.1, 1794
-Mad Max: Fury Road, 1985, Drama, 7.3, 971
-Se7en, 2009, Drama, 7.8, 212
-Harry Potter, 1982, Adventure, 7.3, 894
-Shutter Island, 2001, Romance, 8.6, 1180
-The Dark Knight, 2021, Sci-Fi, 5.6, 899
-The Sixth Sense, 2015, Romance, 6.2, 470
-Us, 1982, Thriller, 8.5, 1295
-Pulp Fiction, 2018, Comedy, 8.9, 618
-Deadpool, 1984, Mystery, 6.7, 1416
-Titanic, 1997, Action, 6.6, 1399
-The Social Network, 2008, Sci-Fi, 8.3, 1943
-Finding Nemo, 1992, Drama, 7.4, 511
+The Grand Escape,2015,Action,7.80,120000000
+Eternal Sunshine,2004,Drama,8.30,72000000
+Galactic Wars,2019,Sci-Fi,6.90,450000000
+Midnight Shadows,2018,Thriller,7.10,89000000
+The Last Laugh,2010,Comedy,6.50,50000000
+Ocean's Depth,2021,Adventure,7.40,320000000
+Frozen Hearts,2013,Romance,7.00,280000000
+Crimson Peak,2015,Horror,6.80,74000000
+The Forgotten Kingdom,2017,Fantasy,7.20,150000000
+Racing Pulse,2016,Action,6.70,110000000
+Silent Whispers,2014,Drama,7.90,60000000
+Starlight Odyssey,2022,Sci-Fi,7.50,410000000
+Dark Alleys,2019,Thriller,6.60,95000000
+Laugh Out Loud,2012,Comedy,6.40,55000000
+Lost Islands,2020,Adventure,7.30,290000000
+Love in Paris,2016,Romance,6.90,130000000
+The Haunting,2018,Horror,6.20,80000000
+Realm of Magic,2021,Fantasy,7.60,340000000
+City of Shadows,2017,Action,7.10,170000000
+Broken Bonds,2015,Drama,8.10,67000000
+Beyond the Stars,2023,Sci-Fi,7.70,480000000
+Hidden Truths,2020,Thriller,6.80,88000000
+Funny Bones,2011,Comedy,6.30,49000000
+Treasure Hunt,2019,Adventure,7.00,260000000
+A Touch of Love,2014,Romance,6.70,90000000
+The Curse,2016,Horror,5.90,70000000
+Mystic Lands,2022,Fantasy,7.40,380000000
+Rogue Agent,2018,Action,6.90,140000000
+Shattered Dreams,2013,Drama,8.00,75000000
+Cosmic Journey,2021,Sci-Fi,7.20,430000000
+Fatal Secrets,2017,Thriller,6.50,92000000
+Just Kidding,2015,Comedy,6.10,51000000
+Wild Expeditions,2020,Adventure,7.10,310000000
+Hearts Aligned,2019,Romance,6.80,120000000
+Night Terrors,2014,Horror,5.80,65000000
+Enchanted Realms,2023,Fantasy,7.30,360000000
+Steel Resolve,2016,Action,7.00,160000000
+The Long Road,2012,Drama,7.80,68000000
+Alien Frontiers,2022,Sci-Fi,7.60,440000000
+Twisted Fate,2018,Thriller,6.70,97000000
+Comedy Central,2013,Comedy,6.00,53000000
+Safari Quest,2021,Adventure,7.20,330000000
+Love Letters,2017,Romance,6.90,110000000
+The Witching Hour,2015,Horror,5.70,72000000
+Kingdom of Myths,2020,Fantasy,7.50,370000000
+Urban Warfare,2019,Action,6.80,180000000
+Tears of Joy,2014,Drama,7.70,79000000
+Stellar Conflict,2023,Sci-Fi,7.40,460000000
+Deadly Games,2016,Thriller,6.40,99000000
+Laugh Riot,2012,Comedy,5.90,57000000
+Jungle Trek,2022,Adventure,7.30,350000000
+Romantic Nights,2018,Romance,6.60,130000000
+The Darkening,2017,Horror,5.60,76000000
+Mythical Creatures,2021,Fantasy,7.60,390000000
+Battlefront,2015,Action,6.90,190000000
+Soulful Moments,2013,Drama,7.90,82000000
+Interstellar Wars,2024,Sci-Fi,7.80,470000000
+Hidden Agenda,2019,Thriller,6.30,101000000
+Hilarious Times,2014,Comedy,5.80,59000000
+Desert Quest,2023,Adventure,7.40,360000000
+Love Blossoms,2020,Romance,6.50,140000000
+The Phantom,2016,Horror,5.50,78000000
+Legends of Old,2022,Fantasy,7.70,400000000
+Final Stand,2018,Action,6.70,200000000
+Heartstrings,2015,Drama,8.20,85000000
+Galactic Empires,2025,Sci-Fi,7.90,490000000
+Shadow Play,2020,Thriller,6.20,105000000
+Comedy Gold,2017,Comedy,6.10,61000000
+Arctic Expedition,2024,Adventure,7.50,380000000
+Sweet Serenade,2019,Romance,6.70,150000000
+The Howling,2014,Horror,5.40,80000000
+Dragon's Lair,2023,Fantasy,7.80,420000000
+War Zone,2016,Action,6.60,210000000
+The Journey,2012,Drama,8.30,90000000
+Space Odyssey,2026,Sci-Fi,8.00,510000000
+Crimson Web,2021,Thriller,6.10,110000000
+Laugh Fest,2015,Comedy,5.70,63000000
+Island Hopping,2025,Adventure,7.60,400000000
+Eternal Love,2018,Romance,6.80,160000000
+The Ritual,2017,Horror,5.30,82000000
+Wizards and Warriors,2024,Fantasy,7.90,440000000
+Street Fight,2019,Action,6.50,220000000
+The Last Chapter,2014,Drama,8.40,95000000
+Starfall,2027,Sci-Fi,8.10,530000000
+Web of Lies,2022,Thriller,6.00,115000000
+Funny Business,2016,Comedy,5.60,65000000
+Mountain Quest,2026,Adventure,7.70,420000000
+Love Forever,2020,Romance,6.90,170000000
+The Haunted,2018,Horror,5.20,84000000
+Realm of Dragons,2025,Fantasy,8.00,460000000
+City Siege,2017,Action,6.40,230000000
+The Final Act,2015,Drama,8.50,100000000
+Galactic Nexus,2028,Sci-Fi,8.20,550000000
+Dark Secrets,2023,Thriller,5.90,120000000
+Comedy Circus,2018,Comedy,5.50,67000000
+Ocean Quest,2027,Adventure,7.80,440000000
+Love and Loss,2021,Romance,7.00,180000000
+The Shadows,2019,Horror,5.10,86000000
+Mythos,2026,Fantasy,8.10,480000000
+Grownups,2023,Comedy,6.10,320000000

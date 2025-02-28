@@ -76,8 +76,8 @@ void displayMovies(const vector<Movie> &movies) {
     }
 
     cout << left << setw(25) << "Title"
-         << setw(7) << "Year"
-         << setw(11) << "Genre"
+         << setw(6) << "Year"
+         << setw(12) << "Genre"
          << setw(8) << "Rating"
          << setw(10) << "Box Office"
          << endl;
@@ -88,10 +88,32 @@ void displayMovies(const vector<Movie> &movies) {
     }
 }
 
+int searchMovieByTitle(const vector<Movie> &movies, const string &searchTitle) {
+    for (int i = 0; i < movies.size(); i++) {
+        if (movies[i].title == searchTitle) {
+            return i;
+        }
+    }
+    return -1;
+}
+
 int main() {
     vector<Movie> movies;
     readMovies("movies.txt", movies);
     displayMovies(movies);
+
+    string searchTitle;
+    cout << "\nEnter a movie title to search: ";
+    getline(cin, searchTitle);
+
+    int index = searchMovieByTitle(movies, searchTitle);
+
+    if (index != -1) {
+        cout << "Movie found:\n";
+        display(movies[index]);
+    } else {
+        cout << "Movie not found.\n";
+    }
 
     return 0;
 }
