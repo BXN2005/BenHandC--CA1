@@ -5,6 +5,7 @@
 #include <sstream>
 #include <iomanip>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 
@@ -193,6 +194,20 @@ void searchMoviesByText(const vector<Movie> &movies) {
     }
 }
 
+bool compareByRatingDescending(const Movie &a, const Movie &b) {
+    return a.rating > b.rating;
+}
+
+void displayMoviesByRatingDescending(vector<Movie> &movies) {
+    sort(movies.begin(), movies.end(), compareByRatingDescending);
+    cout << "\nMovies in Rating Descending:\n";
+    displayTitle();
+
+    for (auto &movie : movies) {
+        display(movie);
+    }
+}
+
 int main() {
     vector<Movie> movies;
     readMovies("movies.txt", movies);
@@ -236,7 +251,7 @@ int main() {
     cout << "Average Box Office: $" << avgBoxOffice << endl;
 
     searchMoviesByText(movies);
-
+    displayMoviesByRatingDescending(movies);
     return 0;
 }
 
