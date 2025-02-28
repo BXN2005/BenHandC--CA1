@@ -1,101 +1,100 @@
-The Grand Escape,2015,Action,7.80,120000000
-Eternal Sunshine,2004,Drama,8.30,72000000
-Galactic Wars,2019,Sci-Fi,6.90,450000000
-Midnight Shadows,2018,Thriller,7.10,89000000
-The Last Laugh,2010,Comedy,6.50,50000000
-Ocean's Depth,2021,Adventure,7.40,320000000
-Frozen Hearts,2013,Romance,7.00,280000000
-Crimson Peak,2015,Horror,6.80,74000000
-The Forgotten Kingdom,2017,Fantasy,7.20,150000000
-Racing Pulse,2016,Action,6.70,110000000
-Silent Whispers,2014,Drama,7.90,60000000
-Starlight Odyssey,2022,Sci-Fi,7.50,410000000
-Dark Alleys,2019,Thriller,6.60,95000000
-Laugh Out Loud,2012,Comedy,6.40,55000000
-Lost Islands,2020,Adventure,7.30,290000000
-Love in Paris,2016,Romance,6.90,130000000
-The Haunting,2018,Horror,6.20,80000000
-Realm of Magic,2021,Fantasy,7.60,340000000
-City of Shadows,2017,Action,7.10,170000000
-Broken Bonds,2015,Drama,8.10,67000000
-Beyond the Stars,2023,Sci-Fi,7.70,480000000
-Hidden Truths,2020,Thriller,6.80,88000000
-Funny Bones,2011,Comedy,6.30,49000000
-Treasure Hunt,2019,Adventure,7.00,260000000
-A Touch of Love,2014,Romance,6.70,90000000
-The Curse,2016,Horror,5.90,70000000
-Mystic Lands,2022,Fantasy,7.40,380000000
-Rogue Agent,2018,Action,6.90,140000000
-Shattered Dreams,2013,Drama,8.00,75000000
-Cosmic Journey,2021,Sci-Fi,7.20,430000000
-Fatal Secrets,2017,Thriller,6.50,92000000
-Just Kidding,2015,Comedy,6.10,51000000
-Wild Expeditions,2020,Adventure,7.10,310000000
-Hearts Aligned,2019,Romance,6.80,120000000
-Night Terrors,2014,Horror,5.80,65000000
-Enchanted Realms,2023,Fantasy,7.30,360000000
-Steel Resolve,2016,Action,7.00,160000000
-The Long Road,2012,Drama,7.80,68000000
-Alien Frontiers,2022,Sci-Fi,7.60,440000000
-Twisted Fate,2018,Thriller,6.70,97000000
-Comedy Central,2013,Comedy,6.00,53000000
-Safari Quest,2021,Adventure,7.20,330000000
-Love Letters,2017,Romance,6.90,110000000
-The Witching Hour,2015,Horror,5.70,72000000
-Kingdom of Myths,2020,Fantasy,7.50,370000000
-Urban Warfare,2019,Action,6.80,180000000
-Tears of Joy,2014,Drama,7.70,79000000
-Stellar Conflict,2023,Sci-Fi,7.40,460000000
-Deadly Games,2016,Thriller,6.40,99000000
-Laugh Riot,2012,Comedy,5.90,57000000
-Jungle Trek,2022,Adventure,7.30,350000000
-Romantic Nights,2018,Romance,6.60,130000000
-The Darkening,2017,Horror,5.60,76000000
-Mythical Creatures,2021,Fantasy,7.60,390000000
-Battlefront,2015,Action,6.90,190000000
-Soulful Moments,2013,Drama,7.90,82000000
-Interstellar Wars,2024,Sci-Fi,7.80,470000000
-Hidden Agenda,2019,Thriller,6.30,101000000
-Hilarious Times,2014,Comedy,5.80,59000000
-Desert Quest,2023,Adventure,7.40,360000000
-Love Blossoms,2020,Romance,6.50,140000000
-The Phantom,2016,Horror,5.50,78000000
-Legends of Old,2022,Fantasy,7.70,400000000
-Final Stand,2018,Action,6.70,200000000
-Heartstrings,2015,Drama,8.20,85000000
-Galactic Empires,2025,Sci-Fi,7.90,490000000
-Shadow Play,2020,Thriller,6.20,105000000
-Comedy Gold,2017,Comedy,6.10,61000000
-Arctic Expedition,2024,Adventure,7.50,380000000
-Sweet Serenade,2019,Romance,6.70,150000000
-The Howling,2014,Horror,5.40,80000000
-Dragon's Lair,2023,Fantasy,7.80,420000000
-War Zone,2016,Action,6.60,210000000
-The Journey,2012,Drama,8.30,90000000
-Space Odyssey,2026,Sci-Fi,8.00,510000000
-Crimson Web,2021,Thriller,6.10,110000000
-Laugh Fest,2015,Comedy,5.70,63000000
-Island Hopping,2025,Adventure,7.60,400000000
-Eternal Love,2018,Romance,6.80,160000000
-The Ritual,2017,Horror,5.30,82000000
-Wizards and Warriors,2024,Fantasy,7.90,440000000
-Street Fight,2019,Action,6.50,220000000
-The Last Chapter,2014,Drama,8.40,95000000
-Starfall,2027,Sci-Fi,8.10,530000000
-Web of Lies,2022,Thriller,6.00,115000000
-Funny Business,2016,Comedy,5.60,65000000
-Mountain Quest,2026,Adventure,7.70,420000000
-Love Forever,2020,Romance,6.90,170000000
-The Haunted,2018,Horror,5.20,84000000
-Realm of Dragons,2025,Fantasy,8.00,460000000
-City Siege,2017,Action,6.40,230000000
-The Final Act,2015,Drama,8.50,100000000
-Galactic Nexus,2028,Sci-Fi,8.20,550000000
-Dark Secrets,2023,Thriller,5.90,120000000
-Comedy Circus,2018,Comedy,5.50,67000000
-Ocean Quest,2027,Adventure,7.80,440000000
-Love and Loss,2021,Romance,7.00,180000000
-The Shadows,2019,Horror,5.10,86000000
-Mythos,2026,Fantasy,8.10,480000000
-Grownups,2023,Comedy,6.10,320000000
-Toy Story,2013,Action,6.10,620000000
+The Grand Escape,2015,Action,7.80,120
+Eternal Sunshine,2004,Drama,8.30,72
+Galactic Wars,2019,Sci-Fi,6.90,450
+Midnight Shadows,2018,Thriller,7.10,89
+The Last Laugh,2010,Comedy,6.50,50
+Ocean's Depth,2021,Adventure,7.40,320
+Frozen Hearts,2013,Romance,7.00,280
+Crimson Peak,2015,Horror,6.80,74
+The Forgotten Kingdom,2017,Fantasy,7.20,150
+Racing Pulse,2016,Action,6.70,110
+Silent Whispers,2014,Drama,7.90,60
+Starlight Odyssey,2022,Sci-Fi,7.50,410
+Dark Alleys,2019,Thriller,6.60,95
+Laugh Out Loud,2012,Comedy,6.40,55
+Lost Islands,2020,Adventure,7.30,290
+Love in Paris,2016,Romance,6.90,130
+The Haunting,2018,Horror,6.20,80
+Realm of Magic,2021,Fantasy,7.60,340
+City of Shadows,2017,Action,7.10,170
+Broken Bonds,2015,Drama,8.10,67
+Beyond the Stars,2023,Sci-Fi,7.70,480
+Hidden Truths,2020,Thriller,6.80,88
+Funny Bones,2011,Comedy,6.30,49
+Treasure Hunt,2019,Adventure,7.00,260
+A Touch of Love,2014,Romance,6.70,90
+The Curse,2016,Horror,5.90,70
+Mystic Lands,2022,Fantasy,7.40,380
+Rogue Agent,2018,Action,6.90,140
+Shattered Dreams,2013,Drama,8.00,75
+Cosmic Journey,2021,Sci-Fi,7.20,430
+Fatal Secrets,2017,Thriller,6.50,92
+Just Kidding,2015,Comedy,6.10,51
+Wild Expeditions,2020,Adventure,7.10,310
+Hearts Aligned,2019,Romance,6.80,120
+Night Terrors,2014,Horror,5.80,65
+Enchanted Realms,2023,Fantasy,7.30,360
+Steel Resolve,2016,Action,7.00,160
+The Long Road,2012,Drama,7.80,68
+Alien Frontiers,2022,Sci-Fi,7.60,440
+Twisted Fate,2018,Thriller,6.70,97
+Comedy Central,2013,Comedy,6.00,53
+Safari Quest,2021,Adventure,7.20,330
+Love Letters,2017,Romance,6.90,110
+The Witching Hour,2015,Horror,5.70,72
+Kingdom of Myths,2020,Fantasy,7.50,370
+Urban Warfare,2019,Action,6.80,180
+Tears of Joy,2014,Drama,7.70,79
+Stellar Conflict,2023,Sci-Fi,7.40,460
+Deadly Games,2016,Thriller,6.40,99
+Laugh Riot,2012,Comedy,5.90,57
+Jungle Trek,2022,Adventure,7.30,350
+Romantic Nights,2018,Romance,6.60,130
+The Darkening,2017,Horror,5.60,76
+Mythical Creatures,2021,Fantasy,7.60,390
+Battlefront,2015,Action,6.90,190
+Soulful Moments,2013,Drama,7.90,82
+Interstellar Wars,2024,Sci-Fi,7.80,470
+Hidden Agenda,2019,Thriller,6.30,101
+Hilarious Times,2014,Comedy,5.80,59
+Desert Quest,2023,Adventure,7.40,360
+Love Blossoms,2020,Romance,6.50,140
+The Phantom,2016,Horror,5.50,78
+Legends of Old,2022,Fantasy,7.70,400
+Final Stand,2018,Action,6.70,200
+Heartstrings,2015,Drama,8.20,85
+Galactic Empires,2025,Sci-Fi,7.90,490
+Shadow Play,2020,Thriller,6.20,105
+Comedy Gold,2017,Comedy,6.10,61
+Arctic Expedition,2024,Adventure,7.50,380
+Sweet Serenade,2019,Romance,6.70,150
+The Howling,2014,Horror,5.40,80
+Dragon's Lair,2023,Fantasy,7.80,420
+War Zone,2016,Action,6.60,210
+The Journey,2012,Drama,8.30,90
+Space Odyssey,2026,Sci-Fi,8.00,510
+Crimson Web,2021,Thriller,6.10,110
+Laugh Fest,2015,Comedy,5.70,63
+Island Hopping,2025,Adventure,7.60,400
+Eternal Love,2018,Romance,6.80,160
+The Ritual,2017,Horror,5.30,82
+Wizards and Warriors,2024,Fantasy,7.90,440
+Street Fight,2019,Action,6.50,220
+The Last Chapter,2014,Drama,8.40,95
+Starfall,2027,Sci-Fi,8.10,530
+Web of Lies,2022,Thriller,6.00,115
+Funny Business,2016,Comedy,5.60,65
+Mountain Quest,2026,Adventure,7.70,420
+Love Forever,2020,Romance,6.90,170
+The Haunted,2018,Horror,5.20,84
+Realm of Dragons,2025,Fantasy,8.00,460
+City Siege,2017,Action,6.40,230
+The Final Act,2015,Drama,8.50,100
+Galactic Nexus,2028,Sci-Fi,8.20,550
+Dark Secrets,2023,Thriller,5.90,120
+Comedy Circus,2018,Comedy,5.50,67
+Ocean Quest,2027,Adventure,7.80,440
+Love and Loss,2021,Romance,7.00,180
+The Shadows,2019,Horror,5.10,86
+Mythos,2026,Fantasy,8.10,480
+Grownups,2016,Comedy,5.10,100

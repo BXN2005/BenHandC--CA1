@@ -135,7 +135,32 @@ void displayMoviesByGenre(const vector<Movie> &movies, const string &genre) {
     }
 }
 
+int findBoxOfficeResults(const vector<Movie> &movies, Movie &highest, Movie &lowest) {
+    if (movies.empty()) {
+        cout << "No movies available.\n";
+        return 0;
+    }
 
+    highest = movies[0];
+    lowest = movies[0];
+    int totalBoxOffice = 0;
+
+
+    for (auto &movie : movies) {
+        totalBoxOffice += movie.boxoffice;
+
+        if (movie.boxoffice > highest.boxoffice) {
+            highest = movie;
+        }
+
+        if (movie.boxoffice < lowest.boxoffice) {
+            lowest = movie;
+        }
+    }
+
+    int averageBoxOffice = totalBoxOffice / movies.size();
+    return averageBoxOffice;
+}
 
 int main() {
     vector<Movie> movies;
@@ -170,6 +195,14 @@ int main() {
 
     displayMoviesByGenre(movies, searchGenre);
 
+    Movie highestBoxOffice, lowestBoxOffice;
+    int avgBoxOffice = findBoxOfficeResults(movies, highestBoxOffice, lowestBoxOffice);
+
+    cout << "\nBox Office Statistics:\n";
+    cout << string(61, '-') << endl;
+    cout << "Highest Box Office: " << highestBoxOffice.title << " $" << highestBoxOffice.boxoffice << "\n";
+    cout << "Lowest Box Office: " << lowestBoxOffice.title << " $" << lowestBoxOffice.boxoffice << "\n";
+    cout << "Average Box Office: $" << avgBoxOffice << endl;
     return 0;
 }
 
