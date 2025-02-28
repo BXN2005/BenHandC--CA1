@@ -208,50 +208,95 @@ void displayMoviesByRatingDescending(vector<Movie> &movies) {
     }
 }
 
+void displayMenu() {
+    cout << "\n===== Movie Menu =====\n";
+    cout << "1. Display All Movies\n";
+    cout << "2. Search Movie by Title\n";
+    cout << "3. Count Movies by Genre\n";
+    cout << "4. Display Movies by Genre\n";
+    cout << "5. Box Office Income\n";
+    cout << "6. Search Movies by Text\n";
+    cout << "7. Display Movies by Rating (Descending)\n";
+    cout << "8. Exit\n";
+    cout << "==============================\n";
+    cout << "Enter your choice: ";
+}
 int main() {
     vector<Movie> movies;
     readMovies("movies.txt", movies);
-    displayMovies(movies);
 
-    string searchTitle;
-    cout << "\nEnter a movie title to search: \n";
-    getline(cin, searchTitle);
+    int choice;
+    string input;
 
-    int index = searchMovieByTitle(movies, searchTitle);
+    do {
+        displayMenu();
+        cin >> choice;
+        cin.ignore();
 
-    if (index != -1) {
-        cout << "Movie found:\n";
-        displayTitle();
-        display(movies[index]);
-    } else {
-        cout << "Movie not found.\n";
-    }
+        switch (choice) {
+            case 1:
+                displayMovies(movies);
+                break;
+            case 2: {
+                string searchTitle;
+                cout << "Enter a movie title to search: ";
+                getline(cin, searchTitle);
 
-    map<string, int> genreCounts = countMoviesByGenre(movies);
+                int index = searchMovieByTitle(movies, searchTitle);
 
-    cout << "\nMovie Count by Genre:\n";
-    cout << string(61, '-') << endl;
-    for (auto &pair : genreCounts) {
-        cout << left << setw(12) << pair.first << ": " << pair.second << endl;
-    }
+                if (index != -1) {
+                    cout << "Movie found:\n";
+                    displayTitle();
+                    display(movies[index]);
+                } else {
+                    cout << "Movie not found.\n";
+                }
+                break;
+            }
+            case 3: {
+                map<string, int> genreCounts = countMoviesByGenre(movies);
 
-    string searchGenre;
-    cout << "\nEnter a genre to search for: ";
-    getline(cin, searchGenre);
+                cout << "\nMovie Count by Genre:\n";
+                cout << string(61, '-') << endl;
+                for (auto &pair : genreCounts) {
+                    cout << left << setw(12) << pair.first << ": " << pair.second << endl;
+                }
+                break;
+            }
+            case 4: {
+                string searchGenre;
+                cout << "Enter a genre to search for: ";
+                getline(cin, searchGenre);
 
-    displayMoviesByGenre(movies, searchGenre);
+                displayMoviesByGenre(movies, searchGenre);
+                break;
+            }
+            case 5: {
+                Movie highestBoxOffice, lowestBoxOffice;
+                int avgBoxOffice = findBoxOfficeResults(movies, highestBoxOffice, lowestBoxOffice);
 
-    Movie highestBoxOffice, lowestBoxOffice;
-    int avgBoxOffice = findBoxOfficeResults(movies, highestBoxOffice, lowestBoxOffice);
+                cout << "\nBox Office Statistics:\n";
+                cout << string(61, '-') << endl;
+                cout << "Highest Box Office: " << highestBoxOffice.title << " $" << highestBoxOffice.boxoffice << "\n";
+                cout << "Lowest Box Office: " << lowestBoxOffice.title << " $" << lowestBoxOffice.boxoffice << "\n";
+                cout << "Average Box Office: $" << avgBoxOffice << endl;
+                break;
+            }
+            case 6:
+                searchMoviesByText(movies);
+                break;
+            case 7:
+                displayMoviesByRatingDescending(movies);
+                break;
+            case 8:
+                cout << "Exiting the program. Goodbye!\n";
+                break;
+            default:
+                cout << "Invalid choice. Please try again.\n";
+                break;
+        }
+    } while (choice != 8);
 
-    cout << "\nBox Office Statistics:\n";
-    cout << string(61, '-') << endl;
-    cout << "Highest Box Office: " << highestBoxOffice.title << " $" << highestBoxOffice.boxoffice << "\n";
-    cout << "Lowest Box Office: " << lowestBoxOffice.title << " $" << lowestBoxOffice.boxoffice << "\n";
-    cout << "Average Box Office: $" << avgBoxOffice << endl;
-
-    searchMoviesByText(movies);
-    displayMoviesByRatingDescending(movies);
     return 0;
 }
 
