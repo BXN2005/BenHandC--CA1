@@ -117,6 +117,25 @@ map<string, int> countMoviesByGenre(const vector<Movie> &movies) {
     return genreCount;
 }
 
+void displayMoviesByGenre(const vector<Movie> &movies, const string &genre) {
+    bool found = false;
+
+    cout << "\nMovies in Genre: " << genre << endl;
+    displayTitle();
+
+    for (const auto &movie : movies) {
+        if (movie.genre == genre) {
+            display(movie);
+            found = true;
+        }
+    }
+
+    if (!found) {
+        cout << "No movies found in this genre.\n";
+    }
+}
+
+
 
 int main() {
     vector<Movie> movies;
@@ -144,6 +163,12 @@ int main() {
     for (auto &pair : genreCounts) {
         cout << left << setw(12) << pair.first << ": " << pair.second << endl;
     }
+
+    string searchGenre;
+    cout << "\nEnter a genre to search for: ";
+    getline(cin, searchGenre);
+
+    displayMoviesByGenre(movies, searchGenre);
 
     return 0;
 }
