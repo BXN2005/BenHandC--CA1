@@ -98,3 +98,4 @@ Love and Loss,2021,Romance,7.00,180000000
 The Shadows,2019,Horror,5.10,86000000
 Mythos,2026,Fantasy,8.10,480000000
 Grownups,2023,Comedy,6.10,320000000
+Toy Story,2013,Action,6.10,620000000

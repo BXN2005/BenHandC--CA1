@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+#include <map>
 #include <sstream>
 #include <iomanip>
 #include <vector>
@@ -87,6 +87,16 @@ void displayMovies(const vector<Movie> &movies) {
         display(movie);
     }
 }
+void displayTitle() {
+    cout << left << setw(25) << "Title"
+         << setw(6) << "Year"
+         << setw(12) << "Genre"
+         << setw(8) << "Rating"
+         << setw(10) << "Box Office"
+         << endl;
+    cout << string(61, '-') << endl;
+}
+
 
 int searchMovieByTitle(const vector<Movie> &movies, const string &searchTitle) {
     for (int i = 0; i < movies.size(); i++) {
@@ -97,22 +107,42 @@ int searchMovieByTitle(const vector<Movie> &movies, const string &searchTitle) {
     return -1;
 }
 
+map<string, int> countMoviesByGenre(const vector<Movie> &movies) {
+    map<string, int> genreCount;
+
+    for (auto &movie : movies) {
+        genreCount[movie.genre]++;
+    }
+
+    return genreCount;
+}
+
+
 int main() {
     vector<Movie> movies;
     readMovies("movies.txt", movies);
     displayMovies(movies);
 
     string searchTitle;
-    cout << "\nEnter a movie title to search: ";
+    cout << "\nEnter a movie title to search: \n";
     getline(cin, searchTitle);
 
     int index = searchMovieByTitle(movies, searchTitle);
 
     if (index != -1) {
         cout << "Movie found:\n";
+        displayTitle();
         display(movies[index]);
     } else {
         cout << "Movie not found.\n";
+    }
+
+    map<string, int> genreCounts = countMoviesByGenre(movies);
+
+    cout << "\nMovie Count by Genre:\n";
+    cout << string(61, '-') << endl;
+    for (auto &pair : genreCounts) {
+        cout << left << setw(12) << pair.first << ": " << pair.second << endl;
     }
 
     return 0;
