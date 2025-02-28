@@ -162,6 +162,37 @@ int findBoxOfficeResults(const vector<Movie> &movies, Movie &highest, Movie &low
     return averageBoxOffice;
 }
 
+vector<Movie> searchMoviesByTitles(const vector<Movie> &movies, const string &searchTitle) {
+    vector<Movie> results;
+
+    for (auto iter = movies.begin(); iter != movies.end(); ++iter) {
+        if (iter->title.find(searchTitle) != string::npos) {
+            results.push_back(*iter);
+        }
+    }
+
+    return results;
+}
+
+void searchMoviesByText(const vector<Movie> &movies) {
+    string searchText;
+    cout << "Enter word to search for: ";
+    cin >> searchText;
+
+    vector<Movie> foundMovies = searchMoviesByTitles(movies, searchText);
+
+    if (foundMovies.empty()) {
+        cout << "No movies found with this word.\n";
+    } else {
+        cout << "\nMovies containg the word: " << searchText << "\n";
+        displayTitle();
+
+        for (auto &movie : foundMovies) {
+            display(movie);
+        }
+    }
+}
+
 int main() {
     vector<Movie> movies;
     readMovies("movies.txt", movies);
@@ -203,6 +234,9 @@ int main() {
     cout << "Highest Box Office: " << highestBoxOffice.title << " $" << highestBoxOffice.boxoffice << "\n";
     cout << "Lowest Box Office: " << lowestBoxOffice.title << " $" << lowestBoxOffice.boxoffice << "\n";
     cout << "Average Box Office: $" << avgBoxOffice << endl;
+
+    searchMoviesByText(movies);
+
     return 0;
 }
 
